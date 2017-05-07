@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SeminarskiIM</string>
+    <string name="enter_city">Enter City</string>
+    <string name="Temp">Temperature:</string>
+    <string name="Hum">Humidity:</string>
+    <string name="Tmin">Temp min:</string>
+    <string name="Tmax">Temp max:</string>
+    <string name="Overcast">Overcast:</string>
+    <string name="WinSpeed">Wind Speed:</string>
+    <string name="About_menu">About</string>
+    <string name="About">About</string>
+    <string name="Weather" />
+    <string name="Settings">Settings</string>
+    <string name="Search">Search</string>
+    <string name="welcome" />
+    <string name="hum_value"> %</string>
+    <string name="wind_speed">Wind Speed:</string>
+
+
+</resources>

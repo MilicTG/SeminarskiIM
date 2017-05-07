@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorPrimaryDark">#800D47A1</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="MyActionButtonStyle" parent="AppTheme.Base">
+        <item name="android:minWidth">10dip</item>
+        <item name="android:paddingTop">10dip</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/welcome</item>
+    </style>
+
+</resources>
+
